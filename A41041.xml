@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a person of quality on board the William and Mary in the fare of Messina to a friend in London Wherein is set forth the present state and condition of the said city. Also a true account of the French fleet now lying in the port of Messina. To which is added a brief discourse of the island of Sicilia concerning the several alterations of government and conquests made therein. With allowance.</title>
+            <author>T. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41041</idno>
+            <idno type="STC">Wing F62</idno>
+            <idno type="STC">ESTC R216391</idno>
+            <idno type="EEBO-CITATION">99828122</idno>
+            <idno type="PROQUEST">99828122</idno>
+            <idno type="VID">32549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1946:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a person of quality on board the William and Mary in the fare of Messina to a friend in London Wherein is set forth the present state and condition of the said city. Also a true account of the French fleet now lying in the port of Messina. To which is added a brief discourse of the island of Sicilia concerning the several alterations of government and conquests made therein. With allowance.</title>
+                  <author>T. F.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, M DC LXXVI. [1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Messina (Sicily) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32549:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A Perſon of Quality on Board the <hi>William</hi> and <hi>Mary</hi> in the FARE of MESSINA To a Friend in <hi>LONDON.</hi>
+            </p>
+            <p>Wherein is ſet forth the preſent State and Condition of the ſaid CITY.</p>
+            <p>ALSO A true Account of the French <hi>FLEET</hi> now lying in the Port of <hi>Meſſina.</hi>
+            </p>
+            <p>To which is added A Brief Diſcourſe of the Iſland of <hi>Sicilia</hi> con<g ref="char:EOLhyphen"/>cerning the ſeveral Alterations of <hi>Government</hi> and <hi>Conqueſts</hi> made therein.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32549:2"/>
+            <pb facs="tcp:32549:2"/>
+            <head>A LETTER <hi>From aboard the</hi> William <hi>and</hi> Mary <hi>in the</hi> Fare <hi>of</hi> MESSINA.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N compliance to your Commands and Advice to me at my departure, to be diligent in obſer<g ref="char:EOLhyphen"/>ving all things that might be worth remark in our Voyage, but moſt eſpe<g ref="char:EOLhyphen"/>cially the ſituation of the principal Cities, the Cuſtomes and Inclinations of the people, And what other Hiſtorical Notions I could gain from the mouths of the Inhabitants; in all which I have been very obſervant hitherto, as will appear by my <hi>Journal</hi> at my return.</p>
+            <p>But to gratifie you in the mean time, ha<g ref="char:EOLhyphen"/>ving the opportunity of a Ship bound for
+<pb n="4" facs="tcp:32549:3"/> 
+               <hi>Naples,</hi> I have requeſted the <hi>Maſter</hi> to con<g ref="char:EOLhyphen"/>vey this Letter to you from thence by the Poſt.</p>
+            <p>About two days ſince we rid at Anchor off <hi>Meſſina</hi> upon the rear of the <hi>French Fleet,</hi> our Maſter was invited aboard one of the Ships that was neareſt to us, who did me that Favour as to carry me on board with him: we were there very civilly welcomed and nobly treated. The French Coptain ſpoke Engliſh very well, and entertained us after a Ship Collation with a large Diſcourſe con<g ref="char:EOLhyphen"/>cerning their la<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Fight with the Spaniſh and Dutch Fleet, and their Fortunate ſucceſs therein. Firſt in relieving the City <hi>Meſſina</hi> with timely Proviſions, and coming off with honour in the Engagement.</p>
+            <p>But, <hi>Sir,</hi> I ſuppoſe this Diſcour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Engagement will be no <hi>News</hi> to you by that time this <hi>Letter</hi> comes to your hand, ſince you will have divers Relations and Particu<g ref="char:EOLhyphen"/>lars of the Fight long before.</p>
+            <p>The number of their Fleet was above Thirty Capitol Ships, beſides their Galleys and ſmall Veſſels, to which number they ex<g ref="char:EOLhyphen"/>pected an addition from <hi>France</hi> to make up
+<pb n="5" facs="tcp:32549:3"/> about Fifty Sail, which they hoped would<g ref="char:EOLhyphen"/>come ſpeedily, for they expected a ſecond Engagement within a ſhort time, for they had lately heard that Lieutenant Admiral <hi>De Ruyter</hi> was returned back and joyned with the Spaniſh Ships and Galleys in order to at<g ref="char:EOLhyphen"/>taque them again.</p>
+            <p>The Captain was a Man no leſs a Scholar than a Souldier, and gave us a pithy Hiſtori<g ref="char:EOLhyphen"/>cal Account of the City <hi>Meſſina</hi> and <hi>Sicilia,</hi> the Heads of which Diſcourſe, or ſo much of it as may come within the bounds of a <hi>Letter,</hi> I have here communicated to you, knowing how acceptable ſuch divertiſement hath been alwayes to you.</p>
+            <p>Meſsina <hi>is the Principal City of</hi> Sicilia, <hi>be<g ref="char:EOLhyphen"/>ing ſtrongly ſituated and well accommodated for Trade or Merchandiſe, though</hi> Palermo <hi>be the Regal Seat and Reſidence of the Vice-Roy. This</hi> Meſsina <hi>was raiſed out of the ruines of the once Famous City</hi> Zanclia, <hi>which was deſtroyed by the</hi> Saraſens, <hi>who over run all</hi> Sicilia, <hi>and poſ<g ref="char:EOLhyphen"/>ſeſſed the Iſland many years; but at length the</hi> Saraſens <hi>was droven out by the</hi> Normans, <hi>who quietly poſſeſſed and governed the Iſland above
+<pb n="6" facs="tcp:32549:4"/> Forty three years; which Governours were ſti<g ref="char:EOLhyphen"/>led</hi> Counts of Sicilia; <hi>but then the Famous Captain</hi> Robert Gaſcordo, <hi>Brother to the King of</hi> Arragon <hi>layes claim to</hi> Puglia, <hi>then poſſeſſed by the</hi> Normans, <hi>and comes againſt it with a conſiderable Army, and takes it for himſelfe; and then proſecutes the War farther, pretending his Brothers claim to the whole Iſland of</hi> Sicilia, <hi>and by the aſſiſtance of his Brothers (the King of</hi> Arragon) <hi>Forces he maintained the claim, and conquered all</hi> Sicily, <hi>and diſpoſſeſſed the</hi> Nor<g ref="char:EOLhyphen"/>mans.</p>
+            <p>
+               <hi>To this</hi> Robert Gaſcordo <hi>Pope</hi> Nicholas <hi>the Second gave the Title of</hi> Duke <hi>of</hi> Sicily; <hi>but the</hi> Sicilians <hi>were ſoon weary of this Government, and revolted from the</hi> Arragonians, <hi>and with the conſent of the Pope, called in</hi> Carolus de Anjou, <hi>Brother to</hi> St. Lewis <hi>King of</hi> France, <hi>and inveſted him in the Throne, and ſwore Al<g ref="char:EOLhyphen"/>legiance to him.</hi>
+            </p>
+            <p>
+               <hi>Thus was the Iſland governed by the</hi> Anjou<g ref="char:EOLhyphen"/>ans <hi>about the ſpace of Forty years, and then</hi> Pietro de Arragon <hi>contrived and plotted with the</hi> Sicilians <hi>the Maſſacre of the French throughout all the Iſland; the Day, Time, and manner appointed being come, notice was given
+<pb n="7" facs="tcp:32549:4"/> by the ringing of the Veſpers Bell, and then this Tragical Plot was put in execution. After which this</hi> Pietro de Arragon <hi>was elected to the Go<g ref="char:EOLhyphen"/>vernment of</hi> Sicilia. <hi>
+                  <g ref="char:V">Ʋ</g>pon this there followed tedious and terrible Wars between the French and the Arrogenians and Sicilians; but at laſt the Arragonians were conquered and driven out of</hi> Sicilia <hi>by</hi> Carolus <hi>the Eighth King of</hi> France, <hi>and the Sicilians ſubmitted to the French Go<g ref="char:EOLhyphen"/>vernment, and lived peaceably and quietly un<g ref="char:EOLhyphen"/>der it many years. And in the Reign of</hi> Ferando <hi>King of</hi> Spain <hi>Wars happening between the French and the Spaniards,</hi> Sicilia <hi>was taken by</hi> Conſalvo Ferando <hi>the Great Captain of</hi> Spain, <hi>who took</hi> Meſsina, <hi>and afterwards ſubdued the whole Iſland, and ſetled a Spaniſh Government there. From this</hi> Ferando <hi>the Iſland of</hi> Sicilia <hi>came by ſucceſſion to</hi> Carolus <hi>the Fifth Emperor, and from him to</hi> Philip <hi>the Second King of</hi> Spain; <hi>and ſo by ſucceſſion it hath been ſubject to the Crown of</hi> Spain <hi>to this time.</hi> This is a ſhort Accouut of what I intend hereafter to enlarge upon and ſend it to you.</p>
+            <pb n="8" facs="tcp:32549:5"/>
+            <p>THE City <hi>Meſſina</hi> is at preſent in pretty good condition, but before the French Fleet arri<g ref="char:EOLhyphen"/>ved to bring them Proviſion, they were reduced to great ſtraits, being forced to eat all manner of Vermin for their ſubſiſtance. We met with a Ship that had put in there about a moneth before the French Fleet arrived, that told us they came aboard them like Bees, to ſearch for Proviſion, and prof<g ref="char:EOLhyphen"/>fered any money for it; one of which offered three Pieces of Eight for a few dryed Skins of Fiſhes, which the Cook had thrown by as uſeleſs. What will not Neceſſity and Hunger drive a man to! We are all very well and merrily ſayling, I hope you are in the like good condition. What further opportunity offers it ſelf to me, I ſhall readily em<g ref="char:EOLhyphen"/>brace and make uſe of it to acquaint you with the proceedings of our Voyage, and ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Your moſt obliged Servant and Nephew. T. F.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
